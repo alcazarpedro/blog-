@@ -3,9 +3,8 @@ magidel se unio al grupo
 pedro luis tiene 23 años y nacio en Mexico
 vive en todo europa
 mañana hablaremos de vida laboral
-<<<<<<< HEAD
+
 hola mundo como estamos 
-=======
 
 el quiere mucho a su mejor amiga , daria todo por ella
->>>>>>> footer
+
